@@ -1,0 +1,8 @@
+{
+  "name": "Elegance Wedding Invitation",
+  "description": "A sophisticated digital wedding invitation with smooth transitions, event details, venue map, and RSVP functionality.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
